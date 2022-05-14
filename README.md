@@ -11,6 +11,7 @@
 - fmt
 - io/ioutil
 - net/http
+- JSON
 
 ## Автор
 
